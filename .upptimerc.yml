@@ -73,5 +73,50 @@ i18n:
   rateLimitExceededCopyPastePAT: Salin dan tempel token Anda
   rateLimitExceededSaveToken: Simpan token
   errorTitle: Terjadi kesalahan
+  errorIntro: Terjadi kesalahan saat mencoba mengambil detail status terbaru.
+  errorText: Anda dapat mencoba lagi dalam beberapa saat.
+  errorHome: Buka beranda
+  pastScheduledMaintenance: Pemeliharaan Terjadwal Sebelumnya
+  scheduledMaintenance: Pemeliharaan Terjadwal
+  scheduledMaintenanceSummaryStarted: Dimulai pada $DATE selama $DURATION menit
+  scheduledMaintenanceSummaryStarts: Dimulai pada $DATE selama $DURATION menit
+  startedAt: Dimulai pada
+  startsAt: Dimulai pada
+  duration: Durasi
+  durationMin: $DURATION menit
+  incidentCompleted: Selesai
+  incidentScheduled: Dijadwalkan
+  duration24H: 24j
+  duration7D: 7h
+  duration30D: 30h
+  duration1Y: 1th
+  durationAll: semua
+  locale: id-ID
+  url: "URL"
+  status: "Status"
+  history: "Riwayat"
+  responseTime: "Waktu Respons"
+  uptime: "Uptime"
+  up: "🟩 Normal"
+  degraded: "🟨 Terdegradasi"
+  down: "🟥 Down"
+  responseTimeGraphAlt: "Grafik waktu respons"
+  ms: "ms"
+  responseTime: "Waktu respons"
+  responseTimeDay: "Waktu respons 24 jam"
+  responseTimeWeek: "Waktu respons 7 hari"
+  responseTimeMonth: "Waktu respons 30 hari"
+  responseTimeYear: "Waktu respons 1 tahun"
+  uptime: "Uptime sepanjang waktu"
+  uptimeDay: "Uptime 24 jam"
+  uptimeWeek: "Uptime 7 hari"
+  uptimeMonth: "Uptime 30 hari"
+  uptimeYear: "Uptime 1 tahun"
+  liveStatus: "Status Langsung"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Semua sistem beroperasi dengan normal"
+  degradedPerformance: "🟨 Performa terdegradasi"
+  completeOutage: "🟥 Pemadaman total"
+  partialOutage: "🟧 Pemadaman sebagian"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
