@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudflare.com.ico",
     "slug": "supermoon-connector",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 544,
-    "timeDay": 544,
-    "timeWeek": 544,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2026-07-05": 649
+      "2026-07-05": 795
     }
   }
 ]
