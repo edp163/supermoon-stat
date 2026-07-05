@@ -34,6 +34,8 @@ commitMessages:
   commitAuthorName: "LUNA bot"
   commitAuthorEmail: "luna.bot@eradayapotensia.com"
 
+user-agent: luna-bot-agent
+
 i18n:
   activeIncidents: Insiden Aktif
   incidentReport: "Laporan insiden #$NUMBER →"
