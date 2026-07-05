@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/edp163/supermoon-stat/refs/heads/master/assets/teleskop.svg
   faviconSvg: https://raw.githubusercontent.com/edp163/supermoon-stat/refs/heads/master/assets/teleskop.svg
   name: Teleskop
-  introTitle: **Teleskop** merupakan layanan monitoring status server Supermoon.
+  introTitle: "**Teleskop** merupakan layanan monitoring status server Supermoon."
   introMessage: Berikut adalah status koneksi **real-time** dari Supermoon platform. menggunakan GitHub Actions, Issues, dan CF Pages. 🔔 Notif telegram akan dikirim ketika koneksi Down.
   navbar:
     - title: Status
