@@ -31,7 +31,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 commitMessages:
-  commitAuthorName: "LUNA bot"
+  commitAuthorName: "luna-bot-agent"
   commitAuthorEmail: "luna.bot@eradayapotensia.com"
 
 user-agent: luna-bot-agent
