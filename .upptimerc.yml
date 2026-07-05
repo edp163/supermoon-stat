@@ -30,6 +30,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+commitMessages:
+  commitAuthorName: "LUNA bot"
+  commitAuthorEmail: "luna.bot@eradayapotensia.com"
+
 i18n:
   activeIncidents: Insiden Aktif
   allSystemsOperational: Semua sistem beroperasi dengan normal
