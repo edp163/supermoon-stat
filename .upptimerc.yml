@@ -14,11 +14,13 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"healthy"'
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: supermoon-stat.pages.dev
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/edp163/supermoon-stat/refs/heads/master/assets/teleskop.svg
+  faviconSvg: https://raw.githubusercontent.com/edp163/supermoon-stat/refs/heads/master/assets/teleskop.svg
   name: Teleskop
   introTitle: "**Teleskop** merupakan layanan monitoring status server Supermoon, menggunakan Upptime dan GitHub."
   introMessage: Berikut adalah status koneksi **real-time** dari Supermoon. menggunakan GitHub Actions, Issues, dan CF Pages. 🔔 Notif telegram akan dikirim ketika koneksi Down.
@@ -28,5 +30,48 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+i18n:
+  activeIncidents: Insiden Aktif
+  allSystemsOperational: Semua sistem beroperasi dengan normal
+  incidentReport: "Laporan insiden #$NUMBER →"
+  activeIncidentSummary: Dibuka pada $DATE dengan $POSTS postingan
+  incidentTitle: Detail Insiden $NUMBER
+  incidentDetails: Detail Insiden
+  incidentFixed: Selesai
+  incidentOngoing: Berlangsung
+  incidentOpenedAt: Dibuka pada
+  incidentClosedAt: Ditutup pada
+  incidentViewOnGitHub: Lihat dan Berlangganan di GitHub
+  incidentCommentSummary: Diposting pada $DATE oleh $AUTHOR
+  incidentBack: ← Kembali ke semua insiden
+  pastIncidents: Insiden Sebelumnya
+  pastIncidentsResolved: Diselesaikan dalam $MINUTES menit dengan $POSTS postingan
+  liveStatus: Status Langsung
+  overallUptime: "Uptime keseluruhan: $UPTIME"
+  overallUptimeTitle: Uptime keseluruhan
+  averageResponseTime: "Waktu respons rata-rata: $TIMEms"
+  averageResponseTimeTitle: Respons rata-rata
+  sevelDayResponseTime: Waktu respons 7 hari
+  responseTimeMs: Waktu respons (ms)
+  up: Normal
+  down: Down
+  degraded: Terdegradasi
+  ms: ms
+  loading: Memuat...
+  navGitHub: GitHub
+  footer: Halaman ini bersifat [open source]($REPO), didukung oleh [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Batas permintaan terlampaui
+  rateLimitExceededIntro: Anda telah melampaui batas jumlah permintaan yang dapat dilakukan dalam satu jam, sehingga Anda harus menunggu sebelum mengakses situs web ini kembali. Sebagai alternatif, Anda dapat menambahkan Personal Access Token GitHub untuk terus menggunakan situs web ini.
+  rateLimitExceededWhatDoesErrorMean: Apa arti dari kesalahan ini?
+  rateLimitExceededErrorMeaning: Situs web ini menggunakan API GitHub untuk mengakses data real-time mengenai status situs web kami. Secara default, GitHub mengizinkan 60 permintaan per jam untuk setiap alamat IP, yang saat ini telah Anda habiskan.
+  rateLimitExceededErrorHowCanFix: Bagaimana cara memperbaikinya?
+  rateLimitExceededErrorFix: Anda dapat menunggu satu jam lagi dan batas alamat IP Anda akan dipulihkan. Sebagai alternatif, Anda dapat menambahkan Personal Access Token GitHub Anda, yang memberikan tambahan 5.000 permintaan per jam.
+  rateLimitExceededGeneratePAT: Pelajari cara membuat Personal Access Token
+  rateLimitExceededHasSet: Anda telah mengatur personal access token
+  rateLimitExceededRemoveToken: Hapus token
+  rateLimitExceededGitHubPAT: Personal Access Token GitHub
+  rateLimitExceededCopyPastePAT: Salin dan tempel token Anda
+  rateLimitExceededSaveToken: Simpan token
+  errorTitle: Terjadi kesalahan
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
