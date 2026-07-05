@@ -102,7 +102,6 @@ i18n:
   degraded: 🟨 Terdegradasi
   down: 🟥 Down
   responseTimeGraphAlt: Grafik waktu respons
-  ms: ms
   responseTimeDay: Waktu respons 24 jam
   responseTimeWeek: Waktu respons 7 hari
   responseTimeMonth: Waktu respons 30 hari
