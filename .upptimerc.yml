@@ -110,7 +110,6 @@ i18n:
   uptimeWeek: Uptime 7 hari
   uptimeMonth: Uptime 30 hari
   uptimeYear: Uptime 1 tahun
-  liveStatus: Status Langsung
   liveStatusHtmlComment: <!--live status-->
   allSystemsOperational: 🟩 Semua sistem beroperasi dengan normal
   degradedPerformance: 🟨 Performa terdegradasi
