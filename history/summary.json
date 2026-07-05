@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudflare.com.ico",
     "slug": "supermoon-connector",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "63.85%",
+    "uptimeDay": "63.85%",
+    "uptimeWeek": "63.85%",
+    "uptimeMonth": "63.85%",
+    "uptimeYear": "63.85%",
     "time": 753,
     "timeDay": 753,
     "timeWeek": 753,
     "timeMonth": 753,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-05": 0
+    }
   },
   {
     "name": "Era Daya Potensia",
