@@ -12,20 +12,16 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"status":"healthy"'
-  - name: Era Daya Potensia
-    url: https://erapotensia.com
-  - name: Mediakarir
-    url: https://mediakarir.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: supermoon-stat.pages.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/edp163/supermoon-stat/refs/heads/master/assets/teleskop.svg
+  name: Teleskop
+  introTitle: "**Teleskop** merupakan layanan monitoring status server Supermoon, menggunakan Upptime dan GitHub."
+  introMessage: Berikut adalah status koneksi **real-time** dari Supermoon. menggunakan GitHub Actions, Issues, dan CF Pages. 🔔 Notif telegram akan dikirim ketika koneksi Down.
   navbar:
     - title: Status
       href: /
