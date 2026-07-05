@@ -18,7 +18,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: supermoon-stat.pages.dev
-  baseUrl: https://supermoon-stat.pages.dev
+  # baseUrl: supermoon-stat
   logoUrl: https://raw.githubusercontent.com/edp163/supermoon-stat/refs/heads/master/assets/teleskop.svg
   faviconSvg: https://raw.githubusercontent.com/edp163/supermoon-stat/refs/heads/master/assets/teleskop.svg
   name: Teleskop
