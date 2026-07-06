@@ -1,7 +1,7 @@
-url: https://cloudflare.com
-status: down
+url: $SITE_URL_SUPERMOON_CONNECTOR
+status: up
 code: 200
-responseTime: 687
-lastUpdated: 2026-07-06T00:58:55.161Z
+responseTime: 621
+lastUpdated: 2026-07-06T03:39:39.310Z
 startTime: 2026-07-05T01:52:48.009Z
 generator: Upptime <https://github.com/upptime/upptime>
