@@ -12,13 +12,13 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"status":"healthy"'
-  - name: mediakarir - FE kandidat
+  - name: mediakarir.com - FE kandidat
     url: $SITE_URL_MK_FE_KANDIDAT
-  - name: mediakarir - FE 2
+  - name: mediakarir.com - FE 2
     url: $SITE_URL_MK_FE_INT
-  - name: mediakarir - FE 3
+  - name: mediakarir.com - FE 3
     url: $SITE_URL_MK_FE_CRP
-  - name: mediakarir API
+  - name: mediakarir.com API
     url: $SITE_URL_MK_BE
 
 status-website:
