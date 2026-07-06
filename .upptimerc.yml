@@ -4,7 +4,7 @@ repo: supermoon-stat # The name of this repository
 
 sites:
   - name: Supermoon Connector
-    url: https://cloudflare.com
+    url: $SITE_URL_SUPERMOON_CONNECTOR
     method: GET
     headers:
       - "Authorization: Bearer $CLOUDFLARE_API_TOKEN"
