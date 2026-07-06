@@ -10,13 +10,13 @@
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
-    "time": 504,
-    "timeDay": 504,
-    "timeWeek": 504,
-    "timeMonth": 504,
-    "timeYear": 504,
+    "time": 516,
+    "timeDay": 516,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2026-07-06": 54,
+      "2026-07-06": 59,
       "2026-07-05": 1327
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 173,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 66,
-    "timeDay": 66,
-    "timeWeek": 66,
-    "timeMonth": 66,
-    "timeYear": 66,
+    "time": 93,
+    "timeDay": 93,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 208,
+    "timeDay": 208,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -79,19 +79,19 @@
     "url": "$SITE_URL_MK_BE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mediakarir-api",
-    "status": "down",
-    "uptime": "55.99%",
-    "uptimeDay": "55.99%",
-    "uptimeWeek": "55.99%",
-    "uptimeMonth": "55.99%",
-    "uptimeYear": "55.99%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.63%",
+    "uptimeDay": "4.63%",
+    "uptimeWeek": "4.63%",
+    "uptimeMonth": "4.63%",
+    "uptimeYear": "4.63%",
+    "time": 799,
+    "timeDay": 799,
+    "timeWeek": 799,
+    "timeMonth": 799,
+    "timeYear": 799,
     "dailyMinutesDown": {
-      "2026-07-06": 0
+      "2026-07-06": 5
     }
   }
 ]
