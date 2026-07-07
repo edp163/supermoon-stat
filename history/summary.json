@@ -4,21 +4,21 @@
     "url": "$SITE_URL_SUPERMOON_CONNECTOR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supermoon-connector",
-    "status": "down",
-    "uptime": "52.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "52.92%",
-    "uptimeMonth": "52.92%",
-    "uptimeYear": "52.92%",
-    "time": 500,
-    "timeDay": 154,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
+    "status": "up",
+    "uptime": "50.30%",
+    "uptimeDay": "88.10%",
+    "uptimeWeek": "50.30%",
+    "uptimeMonth": "50.30%",
+    "uptimeYear": "50.30%",
+    "time": 487,
+    "timeDay": 182,
+    "timeWeek": 487,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2026-07-06": 220,
       "2026-07-05": 1327,
-      "2026-07-07": 0
+      "2026-07-07": 171
     }
   },
   {
