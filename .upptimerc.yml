@@ -44,6 +44,9 @@ commitMessages:
 
 user-agent: luna-bot-agent
 
+workflowSchedule:
+  uptime: "*/10 * * * *"
+
 i18n:
   activeIncidents: Insiden Aktif
   incidentReport: "Laporan insiden #$NUMBER →"
