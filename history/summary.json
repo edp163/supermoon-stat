@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supermoon-connector",
     "status": "up",
-    "uptime": "95.92%",
+    "uptime": "96.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "95.92%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "96.01%",
     "time": 866,
     "timeDay": 127,
     "timeWeek": 225,
-    "timeMonth": 1113,
+    "timeMonth": 583,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2026-07-06": 220,
@@ -82,10 +82,10 @@
     "url": "$SITE_URL_MK_BE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mediakarir-com-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1991,
@@ -93,6 +93,8 @@
     "timeWeek": 1382,
     "timeMonth": 1717,
     "timeYear": 1991,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-12": 2
+    }
   }
 ]
