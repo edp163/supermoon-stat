@@ -1,7 +1,7 @@
 url: $SITE_URL_SUPERMOON_CONNECTOR
-status: up
+status: down
 code: 200
-responseTime: 175
-lastUpdated: 2026-10-02T01:55:53.167Z
+responseTime: 151
+lastUpdated: 2026-10-02T18:29:41.874Z
 startTime: 2026-07-05T01:52:48.009Z
 generator: Upptime <https://github.com/upptime/upptime>
