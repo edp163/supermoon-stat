@@ -4,17 +4,17 @@
     "url": "$SITE_URL_SUPERMOON_CONNECTOR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "supermoon-connector",
-    "status": "down",
-    "uptime": "97.64%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "97.64%",
-    "time": 550,
+    "status": "up",
+    "uptime": "97.33%",
+    "uptimeDay": "71.43%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "97.33%",
+    "time": 546,
     "timeDay": 163,
-    "timeWeek": 166,
+    "timeWeek": 167,
     "timeMonth": 198,
-    "timeYear": 550,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2026-07-06": 220,
       "2026-07-05": 1327,
@@ -23,7 +23,8 @@
       "2026-07-31": 454,
       "2026-09-11": 47,
       "2026-09-10": 768,
-      "2026-10-02": 0
+      "2026-10-03": 81,
+      "2026-10-02": 330
     }
   },
   {
@@ -39,8 +40,8 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 171,
-    "timeWeek": 182,
-    "timeMonth": 212,
+    "timeWeek": 195,
+    "timeMonth": 214,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -57,7 +58,7 @@
     "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 111,
-    "timeWeek": 105,
+    "timeWeek": 100,
     "timeMonth": 125,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -75,8 +76,8 @@
     "uptimeYear": "100.00%",
     "time": 208,
     "timeDay": 186,
-    "timeWeek": 158,
-    "timeMonth": 219,
+    "timeWeek": 162,
+    "timeMonth": 216,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -93,8 +94,8 @@
     "uptimeYear": "99.70%",
     "time": 1836,
     "timeDay": 826,
-    "timeWeek": 1267,
-    "timeMonth": 1587,
+    "timeWeek": 1222,
+    "timeMonth": 1585,
     "timeYear": 1836,
     "dailyMinutesDown": {
       "2026-08-13": 272,
